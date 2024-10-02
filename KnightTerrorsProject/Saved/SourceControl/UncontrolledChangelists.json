@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Levels/NewMapFP.umap",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/BPs/Door/BP_Door.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/FirstPerson/GM_FPerson.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/Levels/NewMapFP.umap",
