@@ -5,10 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/UI/Widget_PlayerUI.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/UI/StartMenu/Widget_StartMenu.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/NPCs/BP_TestNPC.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Door/BP_Door.uasset"
+=======
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/BreakableWall/BP_BWall.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
