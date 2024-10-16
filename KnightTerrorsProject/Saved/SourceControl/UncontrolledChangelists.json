@@ -12,8 +12,14 @@
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/BP_Pursuer.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/BP_Doghead.uasset",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/Levels/NewMapFP.umap",
-				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/Levels/CastleLevels/Dungeon.umap",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/Levels/Dungeon.umap",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/AC_DogheadBehavior.uasset",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/AC_SetPatrolBehavior.uasset",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/AC_SetPatrol.uasset",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/AIObject_PatrolPathPoint.uasset",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/AC_PatrolBehavior.uasset",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/BT_PatrolPath.uasset",
+				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/Levels/CastleLevels/Dungeon.umap",
 				"/Users/student/Documents/GitHub/KnightTerrors/KnightTerrorsProject/Content/Levels/CastleLevels/Dungeon_BuiltData.uasset"
 			]
 		}
