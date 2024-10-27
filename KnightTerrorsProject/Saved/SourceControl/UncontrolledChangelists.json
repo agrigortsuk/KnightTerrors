@@ -20,7 +20,21 @@
 				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/props/doors/cell_doorframe.uasset",
 				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/props/doors/cell_doorframe_nosides.uasset",
 				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Textures/stonewall_2_Mat.uasset",
-				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Levels/Dungeon_BuiltData.uasset"
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Levels/Dungeon_BuiltData.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Textures/stone_floor.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Levels/StartMenuMap.umap",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/doghead/doghead_mat.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/doghead/apb_doghead.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/doghead/Default.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/doghead/int_test_doghead.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Models/doghead/doghead.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Textures/stonewall.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/BPs/PlayerPawn/BP_Person.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/BPs/Pursuer/AIObject_PatrolPathPoint.uasset",
+				"D:/Software/UNREAL/UE_5.2/Engine/Content/BasicShapes/Cylinder.uasset",
+				"D:/Software/UNREAL/UE_5.2/Engine/Content/EditorMeshes/MatineeCam_SM.uasset",
+				"D:/Software/UNREAL/UE_5.2/Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset",
+				"D:/My Stuff/Games/my games/KnightTerrors/KnightTerrorsProject/Content/Levels/DungeonLevel.umap"
 			]
 		}
 	]
